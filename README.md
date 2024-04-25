@@ -9,7 +9,7 @@ I'm zyestin. Used to be an iOSer, now an RNer for 2+ years.
 
 # 📰 Recent Posts
 
-## react-native 系列
+## [react-native 系列](https://zyestin.github.io/readme)
 
 - [代码规范](https://zyestin.github.io/code-standards/)
 
