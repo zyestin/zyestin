@@ -1,6 +1,6 @@
 # Hi there ✋
 
-I'm zyestin. Used to be an iOSer, now an RNer for 2+ years.
+I'm zyestin. Used to be an iOSer, now an RNer since 2020.
 
 - 🔭 Currently working on i-hua-ben
 - 🌱 Currently learning react-native
